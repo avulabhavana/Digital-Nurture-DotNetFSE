@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 315cfa65-c4d8-4fc8-8148-e030d626c0d1
+
+localResources:
+  specs:
+    - ../SwaggerDemo/obj/Debug/net10.0/EndpointInfo/SwaggerDemo.json

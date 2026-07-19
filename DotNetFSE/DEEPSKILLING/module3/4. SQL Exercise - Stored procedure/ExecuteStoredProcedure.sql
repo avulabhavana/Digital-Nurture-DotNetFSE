@@ -1,0 +1,3 @@
+USE OnlineRetailStore;
+
+CALL GetAllEmployees();

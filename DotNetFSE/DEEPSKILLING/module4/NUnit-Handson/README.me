@@ -1,0 +1,103 @@
+# Calculator Unit Testing using NUnit
+
+## Overview
+
+This project demonstrates Unit Testing in .NET using the NUnit framework. The application contains a simple Calculator class with an Add() method. Automated test cases are written to validate the addition functionality.
+
+## Objectives
+
+* Understand Unit Testing concepts.
+* Learn the difference between Unit Testing and Functional Testing.
+* Implement automated tests using NUnit.
+* Use TestFixture, SetUp, TearDown, and TestCase attributes.
+* Verify expected results using Assert.That().
+* Execute and manage tests through Visual Studio Test Explorer.
+
+## Project Structure
+
+CalculatorSolution
+
+├── CalcLibrary
+
+│ └── Calculator.cs
+
+└── CalcLibrary.Tests
+
+└── CalculatorTests.cs
+
+## Technologies Used
+
+* C#
+* .NET
+* NUnit
+* NUnit3TestAdapter
+* Microsoft.NET.Test.Sdk
+* Visual Studio
+
+## Calculator Implementation
+
+The Calculator class contains an Add() method:
+
+```csharp
+public class Calculator
+{
+    public int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
+```
+
+## Unit Test Implementation
+
+The test project uses NUnit attributes:
+
+* `[TestFixture]` – Defines the test class.
+* `[SetUp]` – Runs before each test.
+* `[TearDown]` – Runs after each test.
+* `[TestCase]` – Provides parameterized test data.
+* `Assert.That()` – Validates expected and actual results.
+
+Example:
+
+```csharp
+[TestCase(10, 20, 30)]
+[TestCase(5, 5, 10)]
+[TestCase(1, 2, 3)]
+public void Add_ShouldReturnExpectedResult(int a, int b, int expected)
+{
+    int actual = _calculator.Add(a, b);
+
+    Assert.That(actual, Is.EqualTo(expected));
+}
+```
+
+## Test Cases
+
+| Input A | Input B | Expected Result |
+| ------- | ------- | --------------- |
+| 10      | 20      | 30              |
+| 5       | 5       | 10              |
+| 1       | 2       | 3               |
+
+## Test Results
+
+All test cases executed successfully.
+
+* Total Tests: 3
+* Passed: 3
+* Failed: 0
+* Skipped: 0
+
+## Benefits of Unit Testing
+
+* Detects defects early.
+* Improves code quality.
+* Supports safe refactoring.
+* Reduces manual testing effort.
+* Enables automated regression testing.
+
+## Conclusion
+
+This project demonstrates the implementation of automated unit testing using NUnit in a .NET application. The Calculator class was successfully tested using parameterized test cases, and all tests passed successfully.
+

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\employeewebapilab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\employeewebapilab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\employeewebapilab3\\employeewebapilab3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964D905-0A14-472E-AEDF-EF99A41DF9A3}|EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj|solutionrelative:employeewebapilab3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T16:15:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Program.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Program.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:24:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:39:38.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:34:59.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Skill.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:33:23.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:32:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebApiLab3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:31:59.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWebApiLab3",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj",
+              "RelativeDocumentMoniker": "EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\EmployeeWebApiLab3\\EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj",
+              "RelativeToolTip": "EmployeeWebApiLab3\\EmployeeWebApiLab3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-18T14:30:40.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

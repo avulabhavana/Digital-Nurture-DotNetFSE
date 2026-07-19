@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\webapi\\swaggerdemo\\swaggerdemo\\swaggerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E446E61-F7CD-64EC-80AC-2197A18D0DBF}|SwaggerDemo\\SwaggerDemo.csproj|solutionrelative:swaggerdemo\\swaggerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "SwaggerDemo\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Skill.cs",
+              "RelativeToolTip": "SwaggerDemo\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:12:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SwaggerDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Department.cs",
+              "RelativeToolTip": "SwaggerDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:11:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SwaggerDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "SwaggerDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T14:10:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwaggerDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\SwaggerDemo.csproj",
+              "RelativeDocumentMoniker": "SwaggerDemo\\SwaggerDemo.csproj",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\SwaggerDemo.csproj",
+              "RelativeToolTip": "SwaggerDemo\\SwaggerDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-18T05:44:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SwaggerDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SwaggerDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T05:35:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SwaggerDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\WebApi\\SwaggerDemo\\SwaggerDemo\\Program.cs",
+              "RelativeToolTip": "SwaggerDemo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T05:33:46.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

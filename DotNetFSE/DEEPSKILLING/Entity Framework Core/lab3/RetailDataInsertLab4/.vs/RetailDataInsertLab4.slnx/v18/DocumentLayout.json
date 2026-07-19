@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\entity framework core\\lab3\\retaildatainsertlab4\\retaildatainsertlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|solutionrelative:retaildatainsertlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\entity framework core\\lab3\\retaildatainsertlab4\\retaildatainsertlab4\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|solutionrelative:retaildatainsertlab4\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\entity framework core\\lab3\\retaildatainsertlab4\\retaildatainsertlab4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|solutionrelative:retaildatainsertlab4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\entity framework core\\lab3\\retaildatainsertlab4\\retaildatainsertlab4\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80C738F-3E53-486E-99F2-B31BB5DC31F6}|RetailDataInsertLab4\\RetailDataInsertLab4.csproj|solutionrelative:retaildatainsertlab4\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailDataInsertLab4\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\AppDbContext.cs",
+              "RelativeToolTip": "RetailDataInsertLab4\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:24:25.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Product.cs",
+              "RelativeDocumentMoniker": "RetailDataInsertLab4\\Product.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Product.cs",
+              "RelativeToolTip": "RetailDataInsertLab4\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:23:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Category.cs",
+              "RelativeDocumentMoniker": "RetailDataInsertLab4\\Category.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Category.cs",
+              "RelativeToolTip": "RetailDataInsertLab4\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:23:07.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Program.cs",
+              "RelativeDocumentMoniker": "RetailDataInsertLab4\\Program.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\Entity Framework Core\\lab3\\RetailDataInsertLab4\\RetailDataInsertLab4\\Program.cs",
+              "RelativeToolTip": "RetailDataInsertLab4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:19:40.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

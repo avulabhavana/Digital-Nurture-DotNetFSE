@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "SwaggerDemo.Controllers.EmployeeController",
+    "Method": "GetStandard",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SwaggerDemo.Models.Employee, SwaggerDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SwaggerDemo.Controllers.EmployeeController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "SwaggerDemo.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

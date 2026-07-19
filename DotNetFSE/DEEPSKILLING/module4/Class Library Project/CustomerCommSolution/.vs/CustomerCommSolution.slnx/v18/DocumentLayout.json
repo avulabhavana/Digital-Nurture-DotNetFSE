@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8797E-A441-4B08-82A4-FEF55E3ACE2D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\module4\\class library project\\customercommsolution\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8797E-A441-4B08-82A4-FEF55E3ACE2D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8797E-A441-4B08-82A4-FEF55E3ACE2D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\module4\\class library project\\customercommsolution\\customercomm.tests\\customercomm.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4D8797E-A441-4B08-82A4-FEF55E3ACE2D}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercomm.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\module4\\class library project\\customercommsolution\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\module4\\class library project\\customercommsolution\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\avula\\onedrive\\desktop\\digital-nurture-dotnetfse\\dotnetfse\\deepskilling\\module4\\class library project\\customercommsolution\\customercommlib\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF104715-B9F8-4AF5-B514-B6475A4CE2B1}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:53:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.Tests",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T13:49:59.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:48:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\IMailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\IMailSender.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\IMailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\IMailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:47:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "C:\\Users\\avula\\OneDrive\\Desktop\\Digital-Nurture-DotNetFSE\\DotNetFSE\\DEEPSKILLING\\module4\\Class Library Project\\CustomerCommSolution\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T13:42:37.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
