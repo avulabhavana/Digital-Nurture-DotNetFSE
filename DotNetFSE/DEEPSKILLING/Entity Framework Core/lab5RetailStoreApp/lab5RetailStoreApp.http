@@ -1,0 +1,6 @@
+@lab5RetailStoreApp_HostAddress = http://localhost:5021
+
+GET {{lab5RetailStoreApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
