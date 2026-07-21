@@ -1,0 +1,6 @@
+@lab4RetailStoreApp_HostAddress = http://localhost:5261
+
+GET {{lab4RetailStoreApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
