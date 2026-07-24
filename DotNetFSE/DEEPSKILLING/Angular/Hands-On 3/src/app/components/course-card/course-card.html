@@ -1,0 +1,35 @@
+<div class="course-card"
+     [ngClass]="cardClasses"
+     [ngStyle]="{'border-left':'6px solid '+borderColor}"
+     appHighlight="lightblue">
+
+  <h2>{{course.title}}</h2>
+
+  <p>
+    <strong>Instructor:</strong>
+    {{course.instructor}}
+  </p>
+
+  <p>
+    <strong>Credits:</strong>
+    {{course.credits | creditLabel}}
+  </p>
+
+  <p>
+    <strong>Status:</strong>
+    {{course.gradeStatus}}
+  </p>
+
+  <button (click)="toggleDetails()">
+    {{isExpanded ? 'Hide Details' : 'Show Details'}}
+  </button>
+
+  @if(isExpanded){
+
+  <div>
+    <p>This is additional course information.</p>
+  </div>
+
+  }
+
+</div>
