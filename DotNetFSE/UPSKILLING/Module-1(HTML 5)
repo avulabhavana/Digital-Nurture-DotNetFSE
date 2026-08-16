@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+        #welcomeBanner{
+            background-color:blue;
+            padding:20px;
+            color:thistle;
+        }
+        .highlight{
+            color:white;
+        }
+        .eventImage{
+            border:2px solid black;
+        }
+        .registrationForm{
+            background-color:lightgray;
+            padding:20px;
+            width:300px;
+        }
+
+    </style>
+        <meta charset="UTF-8">
+        <title>My Portal</title>
+    </head>
+    <body>
+        <div id="welcomeBanner">
+            <h1 class="highlight">Welcome to the Local Community Portal</h1>
+            <p> Register today and get
+                <span style="color:thistle;font-weight:bolder"> 20% off</span>
+                on community event registrations.
+            </p>
+        </div>
+        <!--navigation links-->
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#events">Events</a>
+            <a href="#contact">Contact</a>
+            <a href="help.html" target="_blank">Help</a>
+        </nav>
+        <section id="home">
+            <h2>Welcome to the Local Community Portal</h2>
+            <p>Your one-stop destination for all community news and events.</p>
+        </section>
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <p>Check out the latest community events!</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out to us at contact@localcommunity.com</p>
+        </section>
+        <!--main content-->
+        <main>
+            <h1>Local Community Event Portal</h1>
+            <p>Welcome! Register for events and access community services</p>
+        </main>
+        <section id="registration">
+            <h2>Event Registeration</h2>
+            <form class="registrationForm" onsubmit="document.getElementById('confirmation').value='Registration submitted successfully!'; return false;">
+                <label for="name">Name:</label>
+                <input type="text" id="name" placeholder="enter your full name" required autofocus>
+                <br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" placeholder="enter your email" required>
+                <br><br>
+                <label for="eventDate">Event Date:</label><br> 
+                <input type="date" id="eventDate" required> 
+                <br><br>
+                <label for="phone number">Phone Number:</label>
+                <input type="text" id="phone" onblur="ValidatePhone()">
+                <br><br>
+                <label for="eventType">Event Type:</label>
+                <select id="eventType" onchange="showfee()" required>
+                    <option value="">Select an Event</option>
+                    <option value="300">Community Clean-Up Drive</option>
+                    <option value="100">Community Picnic</option>
+                    <option value="200">Community Fundraiser</option>
+                    <option value="400">Community Workshop</option>
+                    <option value="500">Community Meeting</option>
+                    <option value="600">Community Social</option>
+                </select>
+                <p id="feedisplay"></p>
+                <br><br>
+                <label for="message">Message:</label>
+                <br>
+                <textarea id="message" placeholder="Enter your message" required>
+                </textarea>
+                <textarea id="feedbacktext" onKeyup="countCharacters()"></textarea>
+                <p> Characters: <span id="charCount">0</span></p>
+                <button type="button" onclick="showConfirmation()">Submit feedback</button>
+                <p id="feedbackConfirmation"></p>
+                <button type="submit">Register </button>
+                <br><br>
+                <output id="confirmation"></output>
+                
+            </form>
+        </section>
+        <!--table creation-->
+        <table border="1">
+            <tr>
+                <td>
+                    <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSePdo08x5Ma2ya2ZruX8oCzd61G9HhbvXpFqSp55BBvQQrLdOp" width="150" height="150" alt="Event Image" title="Community Clean-Up Drive"
+     class="eventImage" ondblclick="enlargeImage(this)">
+     <p>Community Clean-Up Drive</p>
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Zuz3haRHrSz0f3bnMlUTGa14Qc7Z5LLQ3-l04P98hv9CMXQU" width="150" height="150" alt="Event Image" title="Community Picnic"
+     class="eventImage">
+     <p>Community Picnic</p>
+                </td>
+                <td>
+                    <img src="https://images.ctfassets.net/hrltx12pl8hq/5596z2BCR9KmT1KeRBrOQa/4070fd4e2f1a13f71c2c46afeb18e41c/shutterstock_451077043-hero1.jpg?"  width="150" height="150" alt="Event Image" title="Community Fundraiser"
+     class="eventImage">
+     <p>Community Fundraiser</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgnldVHo1nkILPXEadJ-t4yRaqKlOlTTdM4iSTvKJKQ__t13QRiUbhyk&s" width="150" height="150" alt="Event Image" title="Community Workshop"
+     class="eventImage">
+        <p>Community Workshop</p>
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgnldVHo1nkILPXEadJ-t4yRaqKlOlTTdM4iSTvKJKQ__t13QRiUbhyk&s" width="150" height="150" alt="Event Image" title="Community Meeting"
+     class="eventImage">
+        <p>Community Meeting</p>
+                </td>
+                <td>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgnldVHo1nkILPXEadJ-t4yRaqKlOlTTdM4iSTvKJKQ__t13QRiUbhyk&s" width="150" height="150" alt="Event Image" title="Community Social"
+     class="eventImage">
+        <p>Community Social</p>
+                </td>
+            </tr>
+        </table>
+        <section>
+            <video width="200" controls oncanplay="videoReady()">
+                <source src="eventpromo.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <p id="videoMessage"></p>
+        </section>
+        <!--footer content-->
+        <footer>
+            <p>&copy; 2026 Local city council</p>
+        </footer>
+        <script>
+            function ValidatePhone(){
+                let phone=document.getElementById("phone").value;
+                if(phone.length!=10){
+                    alert("phone number must contain 10 digits");
+                }
+            }
+            function showfee(){
+                let fee=document.getElementById("eventType").value;
+                document.getElementById("feedisplay").innerHTML="Event fee: $"+fee;
+            }
+            function showConfirmation(){
+                document.getElementById("feedbackConfirmation").innerHTML="feedback submitted successfully";
+            }
+            function enlargeImage(img){
+                img.width=300;
+                img.height=300;
+            }
+            function countCharacters(){
+                let count=document.getElementById("feedbacktext").value.length;
+                document.getElementById("charCount").innerHTML=count;
+            }
+            function videoReady(){
+                document.getElementById("videoMessage").innerHTML="video ready to play";
+            }
+            window.onbeforeunload=function(){
+                return "you have unsaved changes.";
+            };
+        </script>
+    </body>
+</html>

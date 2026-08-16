@@ -1,0 +1,128 @@
+$(document).ready(function () {
+
+    // Exercise 1
+    console.log("Hello World!");
+
+    // Exercise 2
+    $("h1").text("Welcome to Local Community Event Portal");
+
+    $("#hideBtn").click(function () {
+        $("#hidePara").hide();
+    });
+
+    // Exercise 3
+
+    $("#hideBox").click(function () {
+        $(".box").hide();
+    });
+
+    $("#showBox").click(function () {
+        $(".box").show();
+    });
+
+    $("#fadeOutBox").click(function () {
+        $(".box").fadeOut();
+    });
+
+    $("#fadeInBox").click(function () {
+        $(".box").fadeIn();
+    });
+
+    $("#toggleBox").click(function () {
+        $(".box").toggle();
+    });
+
+    $("#slideBox").click(function () {
+        $(".box").slideUp().delay(1000).slideDown();
+    });
+
+    // Exercise 4
+
+    $("#addItem").click(function () {
+
+        let value = $("#item").val();
+
+        if (value != "") {
+
+            let newItem = $("<li></li>").text(value);
+
+            $("#eventList").append(newItem);
+
+            $("#item").val("");
+
+        }
+        else {
+
+            alert("Enter Event Name");
+
+        }
+
+    });
+
+    $("#removeAll").click(function () {
+
+        $("#eventList").empty();
+
+    });
+
+    // Exercise 5
+
+    $("#colorBtn").click(function () {
+
+        $("#colorBox").css("background-color", "red");
+
+    });
+
+    $("#colorBtn").dblclick(function () {
+
+        $("#colorBox").css("background-color", "white");
+
+    });
+
+    // Exercise 6
+
+    $("#eventBox").click(function () {
+
+        $(this).text("You Clicked Me");
+
+    });
+
+    $("#eventBox").dblclick(function () {
+
+        $(this).text("Double Clicked");
+
+    });
+
+    $("#eventBox").mouseenter(function () {
+
+        $(this).css({
+            "background-color": "lightgreen",
+            "color": "black"
+        });
+
+    });
+
+    $("#eventBox").mouseleave(function () {
+
+        $(this).css({
+            "background-color": "lightgray",
+            "color": "black"
+        });
+
+    });
+
+    $("#nameInput").keypress(function () {
+
+        $("#message").text("Typing...");
+
+    });
+
+    // Bonus Example
+
+    $("#registerBtn").click(function () {
+
+        $(".eventCard").fadeOut(500).fadeIn(500);
+
+    });
+
+});
